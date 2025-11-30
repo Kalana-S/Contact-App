@@ -1,6 +1,6 @@
 # ContactApp
 
-A simple Android application for managing contacts using Room Database and MVVM architecture.
+A simple **Android application** for managing contacts using **Room Database** and **MVVM architecture**.
 
 ## Features
 - Add new contacts
